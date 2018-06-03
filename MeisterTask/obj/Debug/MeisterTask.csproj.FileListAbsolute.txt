@@ -1,0 +1,4 @@
+c:\users\stalin\documents\visual studio 2010\Projects\MeisterTask\MeisterTask\bin\MeisterTask.dll
+c:\users\stalin\documents\visual studio 2010\Projects\MeisterTask\MeisterTask\bin\MeisterTask.pdb
+c:\users\stalin\documents\visual studio 2010\Projects\MeisterTask\MeisterTask\obj\Debug\MeisterTask.dll
+c:\users\stalin\documents\visual studio 2010\Projects\MeisterTask\MeisterTask\obj\Debug\MeisterTask.pdb

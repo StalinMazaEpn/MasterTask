@@ -1,0 +1,66 @@
+﻿body {
+}
+
+div.avatar {
+    /* cambia estos dos valores para definir el tamaño de tu círculo */
+    height: 100px;
+    width: 100px;
+    /* los siguientes valores son independientes del tamaño del círculo */
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
+
+
+label.fecha {
+    
+    color: #ffffff;
+    font-size: 200%;
+    }
+    
+    
+ .contenedor{
+  height: 49%;
+  background-color: #6A737C;
+  margin: 1% 1%;
+}
+
+div#hecho
+{
+    float:right;
+    width:350px;
+    height: 800px;
+    background-color:#8f7ee6;
+    
+    }
+    
+div#abierto
+{
+    float:left;
+    width:350px;
+    height: 800px;
+    background-color:#30bfbf;
+    
+    }
+    
+div#progreso
+{
+    float:left;
+    width:350px;
+    height: 800px;
+    background-color:#00aaff;
+    margin-left: 20px;
+    
+    }
+    
+div#atraso
+{
+    float:left;
+    width:350px;
+    height: 800px;
+    background-color:#D6320F;
+    margin-left: 20px;
+    
+    }
+    
